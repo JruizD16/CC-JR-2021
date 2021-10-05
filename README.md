@@ -25,4 +25,4 @@ Esta aplicación va a dirigido a los pacientes como usuarios finales, a las enfe
 
 <a name="hito0"></a>
 ## Hito0
-<!-- Para validar el paso a paso de la creación y configuración, [dar clic acá]()
+Para validar el paso a paso de la creación y configuración, [dar clic acá]()
