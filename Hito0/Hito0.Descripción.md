@@ -4,7 +4,7 @@
 
 El primer paso para la creación del proyecto, fue crear el perfil de github con el nombre, dirección de correo, avatar e información adicional quedando creado de la siguiente manera:
 
-![Perfil](Hito0/Profile github.png)
+![Perfil](https://github.com/JruizD16/CC-JR-2021/edit/main/Hito0/Profile github.png)
 
 Luego de esto procedí a la creación de una clave pública y clave privada para poder actuar sobre el repositorio mediante SSH
 
