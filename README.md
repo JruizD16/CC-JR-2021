@@ -1,6 +1,6 @@
 # CC-JR-2021
 
-Este repositorio contiene las practicas realizadas para CC de la Universidad de Granada - Master Ing. Informática
+Este repositorio contiene las practicas realizadas para la materia CC del Master Ing. Informática - Universidad de Granada
 
 ## Contenido
 * [Descripción del proyecto](#descripcion)
