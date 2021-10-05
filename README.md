@@ -4,6 +4,7 @@ Este repositorio contiene las practicas realizadas para la materia CC del Master
 
 ## Contenido
 * [Descripción del proyecto](#descripcion)
+* [Hito0](#hito0)
 
 <a name="descripcion"></a>
 ## Descripción del proyecto
@@ -22,3 +23,6 @@ Es decir, podrán contar con una opción donde pueden organizar su agenda de med
 Esta aplicación va a dirigido a los pacientes como usuarios finales, a las enfermeras quienes cuidan a estos pacientes también como usuarios finales, a las EPS o IPS que se encargan de atender a estos pacientes porque de esta manera el médico podrá saber cuando su paciente requiere de nuevas ordenes de medicamentos y podra crearlas de manera oportuna, a las farmacias que se encargan de proveer a los pacientes con estos medicamentos ya sea de manera que está cubierta en su plan o cuando deben comprarlos, así podría enviar ofertas de los diferentes medicamentos; siendio estos últimos no usuarios finales pero si usuarios que se beneficiarian con la información almacenada por los diferentes usuarios de la aplicación.
 
 
+<a name="hito0"></a>
+## Hito0
+<!-- Para validar el paso a paso de la creación y configuración, [dar clic acá]()
