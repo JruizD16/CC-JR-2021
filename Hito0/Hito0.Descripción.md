@@ -4,12 +4,12 @@
 
 El primer paso para la creación del proyecto, fue crear el perfil de github con el nombre, dirección de correo, avatar e información adicional quedando creado de la siguiente manera:
 
-![Perfil]()
+![Perfil](Hito0/Profile github.png)
 
 Luego de esto procedí a la creación de una clave pública y clave privada para poder actuar sobre el repositorio mediante SSH
 
 ![Claves]()
 
-Y para finalizar para aumentar la seguridad, se han añadido opción de recuperación por SMS
+Y para finalizar para aumentar la seguridad, se han añadido dos opciones de recuperación por SMS y códigos
 
 ![Recuperacion]()
