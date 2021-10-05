@@ -13,4 +13,4 @@ Luego de esto procedí a la creación de una clave pública y clave privada para
 
 Y para finalizar para aumentar la seguridad, se han añadido dos opciones de recuperación por SMS y códigos
 
-![Recuperacion]()
+![Recuperacion](https://github.com/JruizD16/CC-JR-2021/blob/main/Hito0/Two-factor.png?raw=true)
