@@ -1,4 +1,4 @@
-# MyPres
+# CC-JR-2021
 
 Este repositorio contiene las practicas realizadas para la materia CC del Master Ing. Informática - Universidad de Granada
 
