@@ -25,4 +25,4 @@ Esta aplicación va a dirigido a los pacientes como usuarios finales, a las enfe
 
 <a name="hito0"></a>
 ## Hito0
-Para validar el paso a paso de la creación y configuración, [dar clic acá]()
+Para validar el paso a paso de la creación y configuración, [dar clic acá](https://github.com/JruizD16/CC-JR-2021/blob/main/Hito0/Hito0.Descripci%C3%B3n.md)
