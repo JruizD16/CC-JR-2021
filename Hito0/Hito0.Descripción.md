@@ -10,6 +10,6 @@ Luego de esto procedí a la creación de una clave pública y clave privada para
 
 ![Claves]()
 
-Y para finalizar para aumentar la seguridad, se han añadido 2 opciones de recuperación: códigos y un SMS
+Y para finalizar para aumentar la seguridad, se han añadido opción de recuperación por SMS
 
 ![Recuperacion]()
